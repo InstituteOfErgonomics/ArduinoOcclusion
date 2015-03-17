@@ -1,5 +1,5 @@
-# ArduinoOcclusion
-The aim of this small project is to control PLATO occlusion googles with an Arduino Uno and in addition get the ability to transmit and control the status over Ethernet (e.g. to a driving simulator or smartphone).
+﻿# ArduinoOcclusion
+The aim of this small project is to control PLATO occlusion googles ( http://www.translucent.ca/ ) with an Arduino Uno and in addition get the ability to transmit and control the status over Ethernet (e.g. to a driving simulator or smartphone).
 
 
 more information, pictures and videos: http://www.lfe.mw.tum.de/en/open-source/arduino-occlusion/
