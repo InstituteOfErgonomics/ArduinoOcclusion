@@ -25,3 +25,6 @@ A simple socket connection needs to be established for remote control, e.g., via
 To modify IP and port look for the lines:
 IPAddress gIp(192,168,1,18);
 EthernetServer gServer(7009);
+
+-----------
+[![DOI](https://zenodo.org/badge/12944/InstituteOfErgonomics/ArduinoOcclusion.svg)](http://dx.doi.org/10.5281/zenodo.17616)
